@@ -9,3 +9,5 @@ G
 tests/licensing.test.ts,e/c/ec61909a1e0229a201a3f39ae93167143fdf5178
 S
 #contracts/royalty-distribution.clar,9/9/995e55fe213df7ff94d708e34d0568520c645601
+J
+contracts/marketplace.clar,e/2/e2a45a6789a1d0483fc133fffb49ff482a2e137b
